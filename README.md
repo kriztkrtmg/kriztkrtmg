@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kriztkrtmg
-- 👀 I’m interested in Frontend Web Development...
 - 👀 Looking forward to learn machine learning and data related any stuffs...
-- 🌱 I’m currently learning ReactJs..
+- 🌱 Currently a beginner Frontend ReactJs Developer..
 - 💞️ I’m looking to collaborate on any ReactJs project..
 - 📫 How to reach me -christophertkrtmg@gmail.com
 
